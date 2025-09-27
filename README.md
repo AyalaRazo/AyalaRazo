@@ -62,12 +62,12 @@
     <a href="mailto:ayalarazojulio13@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail"/>
     </a> 
-  	<a href="#">
+  	<a href="https://www.linkedin.com/in/julio-ayala-razo-220a27350">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="Connect on Linkedin">
     </a>
   </p>
 
   <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  Last Edited on: 26/09/2025
+  Last Edited on: 27/09/2025
 </div>
