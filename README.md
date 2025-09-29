@@ -15,9 +15,8 @@
   
   #### Languages
 
-  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyalaRazo&layout=compact&hide_border=true&theme=gotham&langs_count=6">
-  
-  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyalaRazo&layout=compact&hide_border=true&theme=gotham&langs_count=6&v=2">
+
   ![Java](https://img.shields.io/badge/java-FE0803.svg?style=for-the-badge&logo=openjdk&logoColor=black)
   ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=black)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black)
@@ -69,5 +68,5 @@
 
   <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  Last Edited on: 27/09/2025
+  Last Edited on: 28/09/2025
 </div>
