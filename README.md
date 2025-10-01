@@ -38,6 +38,7 @@
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=black)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
   ![Firebase](https://img.shields.io/badge/firebase-FE9900?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
   
   #### Tools
   
@@ -56,6 +57,11 @@
   ![iOS](https://img.shields.io/badge/iOS-31BBC0?style=for-the-badge&logo=ios&logoColor=black)
   ![Android](https://img.shields.io/badge/Android-30732F?style=for-the-badge&logo=android&logoColor=green)
 
+  ### Marketing & Analytics Tools 
+
+  ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+  
+
   ## 🙋‍♀️ Contact me
   <p align="center">
     <a href="mailto:ayalarazojulio13@gmail.com">
@@ -68,5 +74,5 @@
 
   <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  Last Edited on: 28/09/2025
+  Last Edited on: 30/09/2025
 </div>
