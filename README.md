@@ -15,7 +15,7 @@
   
   #### Languages
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyalaRazo&layout=compact&hide_border=true&theme=gotham&langs_count=6&v=2">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyalaRazo&layout=compact&hide_border=true&theme=gotham&langs_count=6&cache_seconds=450">
 
   ![Java](https://img.shields.io/badge/java-CF8429.svg?style=for-the-badge&logo=openjdk&logoColor=black)
   ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=black)
